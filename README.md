@@ -1,6 +1,8 @@
 # Turkish_Bert_Question_Answering_Fine-Tuning
 You can fine-tune your question answering model with your own dataset with this repo.
 
+[You can find the model trained with this notebook in huggingface.](https://huggingface.co/oguzhanolm/loodos-bert-base-uncased-QA-fine-tuned)
+
 ---
 language: tr
 tags:
